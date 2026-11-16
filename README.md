@@ -68,8 +68,8 @@ Pastikan emulator Android sudah berjalan atau perangkat Android sudah terhubung.
 
 | Keterangan | Informasi |
 |---|---|
-| Nama | Mochammad Nazib Hasannudin |
-| NPM | 41155050240027 |
+| Nama | Muhamad Ridho Saputra |
+| NPM | 41155050240010 |
 | Mata Kuliah | Pemrograman Mobile |
 | Judul Tugas | Implementasi Tampilan Komponen WebView pada Arsitektur Fabric React Native |
 
